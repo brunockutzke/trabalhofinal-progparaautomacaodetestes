@@ -1,0 +1,17 @@
+{
+  "name": "trabalhofinal",
+  "version": "1.0.0",
+  "description": "Trabalho final da disciplina de Programação Para Automação de Testes",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/**/*.test.js"
+  },
+  "keywords": [
+    "PGATS"
+  ],
+  "author": "Bruno Corso Kutzke",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^10.4.0"
+  }
+}
